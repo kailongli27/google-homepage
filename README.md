@@ -1,1 +1,1 @@
-A Google homepage project
+I recreated the Google homepage using HTML and CSS.
